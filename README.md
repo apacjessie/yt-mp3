@@ -9,8 +9,8 @@ As the creator of YT-MP3 Script, I developed this tool to simplify my own workfl
 ## Installation
 
 1. Clone this repository
-2. cd ./yt-mp3
-3. run ./install.sh
+2. `cd ./yt-mp3`
+3. run `./install.sh`
 
 ## Usage
 
